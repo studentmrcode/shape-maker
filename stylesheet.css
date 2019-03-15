@@ -1,0 +1,4 @@
+#box {
+    /*puts empty space above the box to separate it from the number box*/
+    margin-top: 30px;
+}
